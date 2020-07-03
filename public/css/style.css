@@ -16,6 +16,13 @@ body {
   background-color: #063647;
 }
 
+.heading-icon{
+  float: left;
+  width: 25px;
+  height: 25px;
+  
+}
+
 img {
   width: 100%;
 }
